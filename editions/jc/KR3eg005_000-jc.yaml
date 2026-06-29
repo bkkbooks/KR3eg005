@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eg005/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋李以理有言我有所見輒不能忘我有所得得不能公此與無見無得何異有所見欣然忘之有所得廓然公之乃昔人傳道之虛懷不必身之所至目之所營使聞者心領神會有以悟於語言象數之外妙哉論至此乎予雖不敏心竊嚮往之為之執鞭所願樂焉故有是刻康熙歲在乙卯秋月漁陽林起龍自跋
+  hash: sha256:a6d76de10d90753a877a70cd2bf76ca7df87b345c6b64196586ba31e04766042
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eg005_jc_000-d8.h1s1}
+metadata:
+  title: 增訂葉評傷暑全書
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg005.xml
+hash: sha256:7bd32363c3acdf78443500d61394672e7c579bec464e087a07bcbe29abac92ab
