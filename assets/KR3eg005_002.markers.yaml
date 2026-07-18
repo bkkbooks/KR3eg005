@@ -1321,14 +1321,17 @@ markers:
   - {type: 'tls:seg-end', offset: 3203, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 3203, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s7}
   - {type: punctuation, offset: 3205, content: (, id: KR3eg005_jc_002-bkkpn633}
+  - {type: voice, offset: 3205, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3207, content: ), id: KR3eg005_jc_002-bkkpn634}
   - {type: 'tls:seg', offset: 3207, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s8}
   - {type: punctuation, offset: 3209, content: (, id: KR3eg005_jc_002-bkkpn635}
+  - {type: voice, offset: 3209, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3211, content: ), id: KR3eg005_jc_002-bkkpn636}
   - {type: 'tls:seg', offset: 3211, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s9}
   - {type: 'tls:seg', offset: 3213, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s10}
   - {type: 'tls:seg', offset: 3215, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s11}
   - {type: punctuation, offset: 3217, content: (, id: KR3eg005_jc_002-bkkpn637}
+  - {type: voice, offset: 3217, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3218, content: ), id: KR3eg005_jc_002-bkkpn638}
   - {type: 'tls:seg', offset: 3218, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s12}
   - {type: 'tls:seg-start', offset: 3220, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s13, seg_type: comm, member_ids: [KR3eg005_jc_002-d6.d2.d33.p6s13]}
@@ -1339,13 +1342,16 @@ markers:
   - {type: 'tls:seg', offset: 3223, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s14}
   - {type: 'tls:seg', offset: 3225, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s15}
   - {type: punctuation, offset: 3227, content: (, id: KR3eg005_jc_002-bkkpn641}
+  - {type: voice, offset: 3227, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3229, content: ), id: KR3eg005_jc_002-bkkpn642}
   - {type: 'tls:seg', offset: 3229, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s16}
   - {type: 'tls:seg', offset: 3232, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s17}
   - {type: punctuation, offset: 3235, content: (, id: KR3eg005_jc_002-bkkpn643}
+  - {type: voice, offset: 3235, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3237, content: ), id: KR3eg005_jc_002-bkkpn644}
   - {type: 'tls:seg', offset: 3237, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s18}
   - {type: punctuation, offset: 3239, content: (, id: KR3eg005_jc_002-bkkpn645}
+  - {type: voice, offset: 3239, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 3241, content: ), id: KR3eg005_jc_002-bkkpn646}
   - {type: 'tls:seg', offset: 3241, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s19}
   - {type: 'tls:seg-start', offset: 3243, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s20, seg_type: comm, member_ids: [KR3eg005_jc_002-d6.d2.d33.p6s20]}
@@ -1355,6 +1361,7 @@ markers:
   - {type: 'tls:seg-end', offset: 3246, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s20_end, seg_type: comm}
   - {type: 'tls:seg', offset: 3246, content: '', id: KR3eg005_jc_002-d6.d2.d33.p6s21}
   - {type: punctuation, offset: 3248, content: (, id: KR3eg005_jc_002-bkkpn649}
+  - {type: voice, offset: 3248, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3250, content: ), id: KR3eg005_jc_002-bkkpn650}
   - {type: xml-element, offset: 3250, content: '', id: KR3eg005_jc_002-d6.d2.d33p6_end, name: p, role: close, attrs: {'xml:id': KR3eg005_jc_002-d6.d2.d33p6}}
   - {type: xml-element, offset: 3250, content: '', id: KR3eg005_jc_002-d6.d2.d33p8, name: p, role: open, attrs: {'xml:id': KR3eg005_jc_002-d6.d2.d33p8}}
@@ -5424,4 +5431,4 @@ markers:
   - {type: punctuation, offset: 13623, content: 。, id: KR3eg005_jc_002-bkkpn2615}
   - {type: xml-element, offset: 13623, content: '', id: KR3eg005_jc_002-d6.d2.d52p70_end, name: p, role: close, attrs: {'xml:id': KR3eg005_jc_002-d6.d2.d52p70}}
   back: []
-hash: sha256:b323f4e46e4fc3250e3b4386cb7136750a98bca59a48f4e59999e588c577baab
+hash: sha256:2110209a46bcccdc1a150d231381f52606f78d496abd52647b8213400b2485fb
